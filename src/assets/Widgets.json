@@ -1,0 +1,25 @@
+{
+  "CSPM": [
+    {
+      "id": "1",
+      "name": "Cloud Accounts",
+      "type": "pie",
+      "data": { "Connected": 2, "Not Connected": 2 }
+    },
+    {
+      "id": "2",
+      "name": "Cloud Account Risk Assessment",
+      "type": "pie",
+      "data": { "Failed": 1689, "Warning": 681, "Passed": 7253 }
+    }
+  ],
+  "CWPP": [],
+  "Registry": [
+    {
+      "id": "3",
+      "name": "Image Risk Assessment",
+      "type": "bar",
+      "data": { "Critical": 9, "High": 150, "Medium": 300, "Low": 500 }
+    }
+  ]
+}
