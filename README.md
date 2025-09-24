@@ -32,3 +32,38 @@ An advanced Dashboard Application built using **React.js**, **Redux**, **Materia
 -   🔍 **Search bar** with search button & icon
 -   🧩 **Responsive grid layout** (3 rectangular cards per row with curved corners)
 -   ⚡ **Optimized performance** using Vite
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/harsharma1927/Accuknox-Project.git
+cd Accuknox-Project
+```
+### 2️⃣ Install Dependencies
+
+Run the following command to install all required dependencies:
+```bash
+npm install
+```
+
+### 3️⃣ Install additional libraries
+
+- Material UI (MUI) + Icons
+```bash
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+```
+
+- Redux Toolkit + React Redux
+```bash
+npm install @reduxjs/toolkit react-redux
+```
+### 4️⃣ Run the development server
+```bash
+npm run dev
+```
+
+Open your browser and navigate to:
+👉 http://localhost:5173/
