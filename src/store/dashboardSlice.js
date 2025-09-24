@@ -1,6 +1,6 @@
 // src/store/dashboardSlice.js
 import { createSlice } from "@reduxjs/toolkit";
-import widgetsData from "../assets/widgets.json"; // initial JSON
+import widgetsData from "./Widgets.json"; // initial JSON
 
 // load/save to localStorage so user changes persist across refresh
 const loadState = () => {
