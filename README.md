@@ -1,12 +1,34 @@
-# React + Vite
+# 🌐 Accuknox Dashboard Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An advanced Dashboard Application built using **React.js**, **Redux**, **Material-UI**, and **Recharts**, featuring category-based widgets, chart visualizations, dark/light theme, and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Live Demo
 
-## Expanding the ESLint configuration
+-   **Render Deployment**: https://accuknox-project-1.onrender.com
+-   **Netlify Deployment**: https://accuknox-project-2ba1c4.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🛠️ Technologies Used
+
+-   ⚛️ **React.js** – Component-based UI library
+-   🎨 **Material UI (MUI)** – Modern UI components & theming
+-   🗂️ **Redux Toolkit** – State management made simple
+-   📊 **Recharts** – Data visualization with charts
+-   ⚡ **Vite** – Fast build tool & dev server
+-   🌗 **Dark/Light Mode** – Theme switching functionality
+-   📦 **Node.js & npm** – Dependency management
+
+---
+
+### 📌 Features
+
+-   ➕ **Add** category-based widgets dynamically
+-   ❌ **Remove** widgets easily
+-   📊 Interactive pie & bar charts with Recharts
+-   🌗 Smooth **dark/light mode** toggle (button color adapts to theme)
+-   🔍 **Search bar** with search button & icon
+-   🧩 **Responsive grid layout** (3 rectangular cards per row with curved corners)
+-   ⚡ **Optimized performance** using Vite
